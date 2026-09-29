@@ -1,16 +1,22 @@
-## Hi there 👋
+### Привет, я Alex 👋
 
-<!--
-**ule-boole/ule-boole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер по образованию, дальше — самоучка в разработке. Совмещаю практический
+технический бэкграунд (ремонт техники, стройка/прорабство) с программированием
+и ИИ-инструментами.
 
-Here are some ideas to get you started:
+**Чем занимаюсь:**
+- 🤖 Telegram-боты на Python (aiogram) — от простых до с базой данных и оплатами
+- 📱 Мобильные приложения на React Native (Expo) — iOS и Android из одной кодовой базы
+- 🖥️ Backend на Node.js/TypeScript + PostgreSQL, админ-панели на React
+- 🔐 Настройка и защита серверов (nginx, ufw, fail2ban, systemd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Реальные проекты в проде:**
+- Telegram-бот бронирования для гостевого дома
+- Telegram-бот приёма заказов для кафе
+- Полноценное приложение для кафе: мобильный клиент + сервер + админка
+
+🇬🇧 English — B2, comfortable working with international clients.
+
+📫 Открыт для заказов и проектов — пишите.
+https://kwork.ru/user/alexz011
+https://t.me/ule_boole
