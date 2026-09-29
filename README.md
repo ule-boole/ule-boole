@@ -19,4 +19,4 @@
 
 📫 Открыт для заказов и проектов — пишите.
 https://kwork.ru/user/alexz011
-https://t.me/ule_boole
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ule_boole)
