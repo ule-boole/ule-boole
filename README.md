@@ -18,5 +18,5 @@
 🇬🇧 English — B2, comfortable working with international clients.
 
 📫 Открыт для заказов и проектов — пишите.
-https://kwork.ru/user/alexz011
+
 [![Kwork](https://img.shields.io/badge/Kwork-6DC066?style=for-the-badge&logoColor=white)](https://kwork.ru/user/alexz011) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ule_boole)
